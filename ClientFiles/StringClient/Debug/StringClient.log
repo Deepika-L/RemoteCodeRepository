@@ -1,0 +1,15 @@
+﻿  Client.cpp
+  XmlMsgGenerator.cpp
+  XmlParser.cpp
+  XmlElement.cpp
+  xmlElementParts.cpp
+  Tokenizer.cpp
+  XmlDocument.cpp
+  Utilities.cpp
+  Sockets.cpp
+  Logger.cpp
+  Cpp11-BlockingQueue.cpp
+  HttpMessage.cpp
+  FileSystem.cpp
+  Generating Code...
+  StringClient.vcxproj -> C:\Users\Deepika\Desktop\RemoteCodeRepository\Debug\Client.exe

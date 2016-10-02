@@ -1,0 +1,17 @@
+﻿  Server.cpp
+  XmlMsgGenerator.cpp
+  XmlParser.cpp
+  XmlElement.cpp
+  xmlElementParts.cpp
+  Tokenizer.cpp
+  XmlDocument.cpp
+  Utilities.cpp
+  Sockets.cpp
+  Repository.cpp
+  Metadata.cpp
+  Logger.cpp
+  Cpp11-BlockingQueue.cpp
+  HttpMessage.cpp
+  FileSystem.cpp
+  Generating Code...
+  StringServer.vcxproj -> C:\Users\Deepika\Desktop\RemoteCodeRepository\Debug\Server.exe
